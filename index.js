@@ -376,10 +376,10 @@ function renderHTML(index, seller) {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <title>${config.title} - ${config.subtitle}</title>
-      <link href="https://cdn.660660.xyz/npm/semantic-ui-css@2.4.1/semantic.min.css" rel="stylesheet">
-      <link href="https://cdn.660660.xyz/gh/acgpiano/cf-worker-dir@master/style.css" rel="stylesheet">
-      <script src="https://cdn.660660.xyz/npm/jquery@3.4.1/dist/jquery.min.js"></script>
-      <script src="https://cdn.660660.xyz/npm/semantic-ui-css@2.4.1/semantic.min.js"></script>
+      <link href="https://cdn.w4.pw/npm/semantic-ui-css@2.4.1/semantic.min.css" rel="stylesheet">
+      <link href="https://cdn.w4.pw/gh/acgpiano/cf-worker-dir@master/style.css" rel="stylesheet">
+      <script src="https://cdn.w4.pw/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+      <script src="https://cdn.w4.pw/npm/semantic-ui-css@2.4.1/semantic.min.js"></script>
   </head>
   <body>
     ${index}
